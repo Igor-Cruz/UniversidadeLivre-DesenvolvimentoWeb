@@ -2,7 +2,7 @@
 Especialização em Desenvolvimento Web pela <a href="https://ulivre.dev/">Universidade Brasileira Livre</a>
 
 ### Curso
- - <a href="https://www.cursoemvideo.com/curso/html5-css3-modulo1/">Curso HTML5 e CSS3: módulo 1</a>
+ - <a href="https://www.cursoemvideo.com/curso/html5-css3-modulo1/">Curso HTML5 e CSS3: módulo 1</a>\
    Conteúdo:
    
  - <a href="https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/">Curso HTML5 e CSS3: módulo 2</a>
