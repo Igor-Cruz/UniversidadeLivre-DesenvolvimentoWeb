@@ -16,6 +16,9 @@ Especialização em Desenvolvimento Web pela <a href="https://ulivre.dev/">Unive
    - <a href="https://www.youtube.com/playlist?list=PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc">Node (Express) com TypeScript</a>
 
 ### Cursos Complementares
+<a href="https://go.devpleno.com/fsm">Formação Fullstack Master</a>
+<a href="https://www.udemy.com/course/javascript-funcional/">JavaScript Funcional e Reativo - PENSE como um Dev JS</a>
+<a href=""></a>
 
 ### Projetos do curso
 
