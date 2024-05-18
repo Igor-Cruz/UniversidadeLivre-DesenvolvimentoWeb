@@ -16,3 +16,7 @@ Especialização em Desenvolvimento Web pela <a href="https://ulivre.dev/">Unive
    - <a href="https://www.youtube.com/playlist?list=PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc">Node (Express) com TypeScript</a>
 
 ### Cursos Complementares
+
+### Projetos do curso
+
+### Projetos com conhecimentos do curso
