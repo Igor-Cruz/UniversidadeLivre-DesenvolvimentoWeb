@@ -8,7 +8,7 @@ Especialização em Desenvolvimento Web pela <a href="https://ulivre.dev/">Unive
  - <a href="https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/">Curso HTML5 e CSS3: módulo 2</a>
     Conteúdo:
  
-  - <a href="https://www.cursoemvideo.com/curso/javascript/">Javascript básico</a>
+  - <a href="https://www.cursoemvideo.com/curso/javascript/">Javascript básico</a> \
   Conteúdo:
    - <a href="https://www.youtube.com/playlist?list=PLWhiA_CuQkbCX9nHuk4rolDYxlLUwXpNI">Curso ECMAScript 6</a>
    Conteúdo:
